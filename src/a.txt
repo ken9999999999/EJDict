@@ -2081,7 +2081,7 @@ arc lamp(light)	アーク灯
 arcade	拱廊(きょうろう)(建物の側面につけた廊下状の通路) / アーケード(両側に商店が並ぶ屋根つき街路)
 arcane	神秘的な,不可思議な
 arch	(建物の)『アーチ』,迫持(せりもち) / アーチ型の記念碑,弓形門 / 『弓形のもの』 / (足の)土踏まず / …を弓形にする / …にアーチをかける / 弓形になる,弓状に伸びる / 《名詞の前にのみ用いて》おもな,主要な(chief) / (おもに女・子供が)ずるそうな,いたずらそうな(mischievous)
-archaeological, archeological	孝古学の,考古学的な
+archaeological, archeological	考古学の,考古学的な
 archaeologist, archeologist	考古学者
 archaeology, archeology	考古学
 archaeopteryx,archeopteryx	始祖鳥(絶滅した鳥類の祖先)
